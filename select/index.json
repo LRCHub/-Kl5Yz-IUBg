@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Jeep!?。",
+  "base_artist": "A4。",
+  "createdAt": "2025-12-07T12:21:49.184571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "lil jeep",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/01_lil_jeep_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Black Jeep",
+      "artist": "Mackned feat. Lil Peep & Cold Hart",
+      "has_synced": true,
+      "path": "select/02_Black_Jeep_Mackned_feat._Lil_Peep_&_Cold_Hart.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jeep",
+      "artist": "Myth Syzer feat. Hamza",
+      "has_synced": false,
+      "path": "select/03_Jeep_Myth_Syzer_feat._Hamza.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jeep (feat. Hamza)",
+      "artist": "Myth Syzer, Hamza",
+      "has_synced": false,
+      "path": "select/04_Jeep_(feat._Hamza)_Myth_Syzer,_Hamza.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jeep Ass Niguh",
+      "artist": "Masta Ace",
+      "has_synced": false,
+      "path": "select/05_Jeep_Ass_Niguh_Masta_Ace.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Doctor Jeep",
+      "artist": "The Sisters of Mercy",
+      "has_synced": true,
+      "path": "select/06_Doctor_Jeep_The_Sisters_of_Mercy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Black Jeep (feat. Lil Peep & Cold Hart)",
+      "artist": "Mackned",
+      "has_synced": true,
+      "path": "select/07_Black_Jeep_(feat._Lil_Peep_&_Cold_Hart)_Mackned.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bachelorette - Grooverider \"Jeep\" Remix",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/08_Bachelorette_-_Grooverider__Jeep__Remix_Björk.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bachelorette (Grooverider \"Jeep\" Remix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/09_Bachelorette_(Grooverider__Jeep__Remix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "In Your Room (Jeep Rock Mix)",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/10_In_Your_Room_(Jeep_Rock_Mix)_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Jeep Song",
+      "artist": "The Dresden Dolls",
+      "has_synced": true,
+      "path": "select/11_The_Jeep_Song_The_Dresden_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lemon (Jeep Mix)",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/12_Lemon_(Jeep_Mix)_U2.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In Your Room (The Jeep Rock Mix - Johnny Dollar w\u0000Portishead)",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/13_In_Your_Room_(The_Jeep_Rock_Mix_-_Johnny_Dollar_w\u0000Portishead)_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In Your Room - The Jeep Rock Mix",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/14_In_Your_Room_-_The_Jeep_Rock_Mix_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "In Your Room [The Jeep Rock Mix]",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/15_In_Your_Room_[The_Jeep_Rock_Mix]_Depeche_Mode.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jeep!?。",
+      "artist": "A4。",
+      "has_synced": false,
+      "path": "select/pl_01_Jeep!_。_A4。.txt"
+    }
+  ]
+}
